@@ -1,0 +1,1 @@
+{"name":"duo-adventure","version":"1.0.0","description":"DUO ADVENTURE: Juntos hasta el final","main":"server.js","scripts":{"start":"node server.js"},"dependencies":{"ws":"^8.18.0"}}
